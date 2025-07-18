@@ -56,14 +56,6 @@ We welcome all kinds of contributions! You can:
 
 Check out [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
----
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-## License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 🌟 Contributors
-
-Thanks to everyone who contributes to **QuickCart**!
+Nengi 
